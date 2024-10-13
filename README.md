@@ -1,6 +1,7 @@
 # Gamelet
 
-A starter program for writing javascript games
+A starter program for writing javascript games.
+I'm new to javascript. Wish me luck!
 
 ## Usage
 
